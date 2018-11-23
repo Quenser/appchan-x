@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         appchan x
-// @version      2.10.15
+// @version      2.10.15c
 // @minGMVer     1.14
 // @minFFVer     26
 // @namespace    zixaphir
@@ -8,11 +8,11 @@
 // @license      MIT; https://github.com/zixaphir/appchan-x/blob/master/LICENSE 
 // @match        *://*.4chan.org/*
 // @match        *://boards.4chan.org/*
+// @match        *://*.4channel.org/*
+// @match        *://boards.4channel.org/*
 // @match        *://sys.4chan.org/*
 // @match        *://a.4cdn.org/*
 // @match        *://i.4cdn.org/*
-// @match        *://4channel.org/*
-// @match        *://boards.4channel.org/*
 // @match        *://www.google.com/recaptcha/api/fallback?k=6Ldp2bsSAAAAAAJ5uyx_lx34lJeEpTLVkP5k04qc
 // @exclude      *://blog.4chan.org/*
 // @exclude      *://dis.4chan.org/*
