@@ -1,3 +1,10 @@
+### v2.10.15c
+*2018-11-23*
+
+- I have no idea what I'm doing
+- I'm not a coder
+- But maybe this will work on 4channel now
+
 - Replaced Double Beep with ccdo's Beep
 
 ### v2.10.15
