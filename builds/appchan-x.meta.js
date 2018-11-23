@@ -11,6 +11,8 @@
 // @match        *://sys.4chan.org/*
 // @match        *://a.4cdn.org/*
 // @match        *://i.4cdn.org/*
+// @match        *://4channel.org/*
+// @match        *://boards.4channel.org/*
 // @match        *://www.google.com/recaptcha/api/fallback?k=6Ldp2bsSAAAAAAJ5uyx_lx34lJeEpTLVkP5k04qc
 // @exclude      *://blog.4chan.org/*
 // @exclude      *://dis.4chan.org/*
